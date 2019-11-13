@@ -69,11 +69,11 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: Dabinai
+repo: dabin.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+relative_source: ../dabin.github.io/
+destination: ../dabin.github.io-pages/
 production_url:  https://dabinai.github.io/dabin.github.io/
 source_url:  https://github.com/Dabinai/dabin.github.io/
 
